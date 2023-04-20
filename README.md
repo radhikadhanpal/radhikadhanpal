@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @radhikadhanpal
 - 👀 I’m interested in python.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, C#, Javascript, Erlang.
 - 📫 How to reach me email.
 
 <!---
